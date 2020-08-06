@@ -22,7 +22,7 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "lint": "npx eslint src/pages src/components --fix"
+    "lint": "npx eslint ./src/pages/** ./src/components/** --fix"
   },
   "eslintConfig": {
     "extends": "react-app"
