@@ -29,7 +29,7 @@
 * [Instalação e Execução](#desktop_computer-instalação-e-execução)
 * [Licença](#scroll-licença)
 
-# :recycle: Sobre
+# :teacher: Sobre
 A aplicação foi desenvolvida com o objetivo de conectar professores e alunos com as mais diversas matérias, onde o professor pode cadastrar o horário e a matéria e o aluno com a possibilidade de favoritar os "proffys" favoritos. Além disso existe também a possibilidade de entrar em contato pelo whatsapp 
 
 # :clipboard: Tecnologias Utilizadas
