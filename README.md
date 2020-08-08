@@ -12,12 +12,8 @@
   <a href="#">
     <img alt="Languages used in Project" src="https://img.shields.io/github/languages/count/ArthurPMachado/ProjetoProffy?color=%238C32FF&label=Languages&style=flat-square">
   </a>
-
-  <a href="https://github.com/ArthurPMachado/Projeto-Ecoleta-NLW/stargazers">
-    <img alt="Stars in Project" src="https://img.shields.io/github/stars/ArthurPMachado/ProjetoProffy?color=%238C32FF&label=Stars&style=flat-square">
-  </a>
   
-  <a href="https://github.com/ArthurPMachado/Projeto-Ecoleta-NLW/commits/master">
+  <a href="https://github.com/ArthurPMachado/ProjetoProffy/commits/master">
     <img alt="Last Commit" src="https://img.shields.io/github/last-commit/ArthurPMachado/ProjetoProffy?color=%238C32FF&label=Last%20Commit&style=flat-square">
   </a>
   
@@ -51,7 +47,7 @@ A aplicação foi desenvolvida com o objetivo de conectar professores e alunos c
 * [Postman](https://www.postman.com/)
 
 # :desktop_computer: Instalação e Execução
-**Antes de iniciar, é necessário ter o [NodeJs](https://nodejs.org/en/) e o * [Yarn](https://yarnpkg.com/) baixado na máquina, bem como o aplicativo [Expo](https://expo.io/) no celular para a aplicação mobile**
+**Antes de iniciar, é necessário ter o [NodeJs](https://nodejs.org/en/) e o [Yarn](https://yarnpkg.com/) baixado na máquina, bem como o aplicativo [Expo](https://expo.io/) no celular para a aplicação mobile**
 
 ## Comando para clonar o repositório: 
 ```bash
